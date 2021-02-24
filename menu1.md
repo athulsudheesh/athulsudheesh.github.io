@@ -62,7 +62,6 @@ Random.seed!(1) # hide
 
 \output{./code/ex3}
 
-
 ## Including scripts
 
 Another approach is to include the content of a script that has already been executed.
