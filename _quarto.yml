@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "AthulSudheesh"
+  navbar: 
+    right:
+      - text: "About"
+        href: https://athulsudheesh.com
+      - icon: github
+        href: https://github.com/athulsudheesh
+      - icon: twitter
+        href: https://twitter.com/athulsudheesh
+format:
+  html:
+    theme: 
+      - journal
+        - background:black
+      - custom.scss
+    css: styles.css
+
+
+

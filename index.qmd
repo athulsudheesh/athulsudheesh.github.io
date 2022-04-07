@@ -1,0 +1,13 @@
+---
+title: "@ Fourty Two"
+description: "The public repository of Athul Sudheesh's research, expository pieces, and other half baked technical notes relating to the ultimate questions of life, universe, and everything."
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+page-layout: full
+title-block-banner: true
+---
+
+

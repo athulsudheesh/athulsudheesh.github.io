@@ -1,0 +1,9 @@
+---
+title: "Welcome"
+author: "Athul Sudheesh"
+date: "04/07/2022"
+categories: [news]
+
+---
+
+A Technical blog built using Quarto. A Technical blog built using Quarto.A Technical blog built using Quarto.A Technical blog built using Quarto.A Technical blog built using Quarto.A Technical blog built using Quarto.A Technical blog built using Quarto.A Technical blog built using Quarto.A Technical blog built using Quarto.A Technical blog built using Quarto.A Technical blog built using Quarto.A Technical blog built using Quarto.A Technical blog built using Quarto.A Technical blog built using Quarto.A Technical blog built using Quarto.
