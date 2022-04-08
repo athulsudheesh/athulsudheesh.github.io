@@ -6,4 +6,4 @@ categories: [news]
 
 ---
 
-A Technical blog built using Quarto. A Technical blog built using Quarto.A Technical blog built using Quarto.A Technical blog built using Quarto.A Technical blog built using Quarto.A Technical blog built using Quarto.A Technical blog built using Quarto.A Technical blog built using Quarto.A Technical blog built using Quarto.A Technical blog built using Quarto.A Technical blog built using Quarto.A Technical blog built using Quarto.A Technical blog built using Quarto.A Technical blog built using Quarto.A Technical blog built using Quarto.
+A Technical blog built using Quarto.
