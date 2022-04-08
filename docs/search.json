@@ -1,7 +1,7 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
+    "objectID": "posts/2022/welcome/index.html",
+    "href": "posts/2022/welcome/index.html",
     "title": "Welcome & Thank You Quarto",
     "section": "",
     "text": "I hope to use this space to share my thoughts and notes on quantitative psychology, theoretical statistics, and machine learning. My goal is to use these github pages for articles aimed at technical audience and use my main website for general public. There are two reasons for me to choose github pages/quarto combo over my wordpress website:\n\nI found it hard to get syntax highlight support for Julia language. Most of my computational work are done in Julia.\nI want these notes to be eternally accessible."

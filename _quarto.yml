@@ -14,11 +14,11 @@ website:
         href: https://twitter.com/athulsudheesh
 format:
   html:
+    comments:
+          utterances:
+              repo: athulsudheesh/athulsudheesh.github.io
     theme: 
       - journal
         - background:black
       - custom.scss
     css: styles.css
-
-
-
