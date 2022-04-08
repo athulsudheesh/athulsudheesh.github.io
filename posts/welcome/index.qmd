@@ -1,9 +1,14 @@
 ---
-title: "Welcome"
+title: "Welcome & Thank You Quarto"
 author: "Athul Sudheesh"
 date: "04/07/2022"
 categories: [news]
-
+layout: article
 ---
 
-A Technical blog built using Quarto.
+I came to know about Quarto a couple of days ago, and since then, I have been in love with it. This blog is built using [Quarto Publishing](https://quarto.org/), and I found it to be very straightforward and easy. Previously this blog was built using [Franklin.jl](https://franklinjl.org/) and before that using Jekyll. One of the reasons I moved from Franklin to Quarto was Quarto's language-agnostic approach and advanced layout setting. 
+
+I hope to use this space to share my thoughts and notes on quantitative psychology, theoretical statistics, and machine learning. My goal is to use these github pages for articles aimed at technical audience and use my [main website](https://athulsudheesh.com) for general public. There are two reasons for me to choose github pages/quarto combo over my wordpress website:
+
+- I found it hard to get syntax highlight support for Julia language. Most of my computational work are done in Julia. 
+- I want these notes to be eternally accessible. 

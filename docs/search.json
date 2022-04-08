@@ -2,16 +2,16 @@
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Welcome",
+    "title": "Welcome & Thank You Quarto",
     "section": "",
-    "text": "A Technical blog built using Quarto."
+    "text": "I hope to use this space to share my thoughts and notes on quantitative psychology, theoretical statistics, and machine learning. My goal is to use these github pages for articles aimed at technical audience and use my main website for general public. There are two reasons for me to choose github pages/quarto combo over my wordpress website:\n\nI found it hard to get syntax highlight support for Julia language. Most of my computational work are done in Julia.\nI want these notes to be eternally accessible."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "@ Fourty Two",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\nA Technical blog built using Quarto.\n\n\n\n\n\n\nApr 7, 2022\n\n\nAthul Sudheesh\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\nI came to know about Quarto a couple of days ago, and since then, I have been in love with it. This blog is built using Quarto Publishing, and I found it to be very straightforward and easy. Previously this blog was built using Franklin.jl and before that using Jekyll. One of the reasons I moved from Franklin to Quarto was Quarto’s language-agnostic approach and advanced layout setting.\n\n\n\n\n\n\nApr 7, 2022\n\n\nAthul Sudheesh\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",

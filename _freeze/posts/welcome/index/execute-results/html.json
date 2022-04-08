@@ -1,0 +1,11 @@
+{
+  "hash": "f1c57633e2ea4ecb2d3ca9ba84ba7f8c",
+  "result": {
+    "markdown": "---\ntitle: \"Welcome\"\nauthor: \"Athul Sudheesh\"\ndate: \"04/07/2022\"\ncategories: [news]\n---\n\n::: {.cell execution_count=1}\n``` {.julia .cell-code}\nprintln(\"THis is a tweet\")\n```\n\n::: {.cell-output-stdout}\n```\nTHis is a tweet\n```\n:::\n:::\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
