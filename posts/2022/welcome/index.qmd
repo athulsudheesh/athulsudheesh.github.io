@@ -4,11 +4,6 @@ author: "Athul Sudheesh"
 date: "04/07/2022"
 categories: [news]
 layout: article
-format:
-    html:
-        comments:
-            utterances:
-                repo: athulsudheesh/athulsudheesh.github.io
 ---
 
 I came to know about Quarto a couple of days ago, and since then, I have been in love with it. This blog is built using [Quarto Publishing](https://quarto.org/), and I found it to be very straightforward and easy. Previously this blog was built using [Franklin.jl](https://franklinjl.org/) and before that using Jekyll. One of the reasons I moved from Franklin to Quarto was Quarto's language-agnostic approach and advanced layout setting. 
