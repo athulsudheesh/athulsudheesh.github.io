@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "posts/2022/troubleshooting/ConfusionMatrixDisplayerror.html",
+    "href": "posts/2022/troubleshooting/ConfusionMatrixDisplayerror.html",
+    "title": "KeyError: key :ConfusionMatrixDisplay not found",
+    "section": "",
+    "text": "using Conda   \nConda.update()"
+  },
+  {
     "objectID": "posts/2022/welcome/index.html",
     "href": "posts/2022/welcome/index.html",
     "title": "Welcome & Thank You Quarto",
@@ -11,7 +18,7 @@
     "href": "index.html",
     "title": "@ Fourty Two",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\nI came to know about Quarto a couple of days ago, and since then, I have been in love with it. This blog is built using Quarto Publishing, and I found it to be very straightforward and easy. Previously this blog was built using Franklin.jl and before that using Jekyll. One of the reasons I moved from Franklin to Quarto was Quarto’s language-agnostic approach and advanced layout setting.\n\n\n\n\n\n\nApr 7, 2022\n\n\nAthul Sudheesh\n\n\n\n\n\n\nNo matching items"
+    "text": "debugging\n\n\n\n\n\n\n\n\n\n\n\nMay 1, 2022\n\n\nAthul Sudheesh\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nApr 7, 2022\n\n\nAthul Sudheesh\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",

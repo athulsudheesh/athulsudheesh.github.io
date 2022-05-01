@@ -1,7 +1,8 @@
 project:
   type: website
   output-dir: docs
-
+execute:
+  daemon: 600000
 website:
   title: "AthulSudheesh"
   navbar: 

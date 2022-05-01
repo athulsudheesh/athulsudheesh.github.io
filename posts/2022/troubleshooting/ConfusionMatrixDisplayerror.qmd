@@ -1,0 +1,14 @@
+---
+title: "KeyError: key :ConfusionMatrixDisplay not found"
+author: "Athul Sudheesh"
+date: "05/01/2022"
+categories: [debugging]
+layout: article
+---
+
+This error is probably caused by the wrong `scikit-learn` version in your `conda` environment. You can solve this by updating all the packages in your current Conda environment.
+```{julia}
+#| eval: false 
+using Conda   
+Conda.update() 
+```
