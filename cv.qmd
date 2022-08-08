@@ -1,0 +1,185 @@
+---
+title: "Athul Sudheesh"
+image: prof.jpg
+comments: 
+  utterances: 
+      repo: none
+format: 
+  html:
+    fontsize: 15px
+about:
+  image-shape: round
+  image-width: 8em
+  id: hero-heading
+  template: solana
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/AthulSudheesh
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/athulsudheesh/
+    - icon: github
+      text: Github
+      href: https://github.com/athulsudheesh
+---
+
+
+:::{#hero-heading}
+
+## Education  
+
+----
+<!------------------------ PhD ---------------------------------->
+::: {.grid}
+::: {.g-col-2}
+![](/about/utd-log.jpg)
+:::
+::: {.g-col-7}
+**PhD** in **Cognition & Neuroscience**   
+School of Behavioral & Brain Sciences   
+The University of Texas at Dallas
+:::
+::: {.g-col-3}
+2019 - Present
+:::
+:::
+<!------------------------ End of PhD ---------------------------------->
+
+<!------------------------ MS ----------------------------------------->
+::: {.grid}
+::: {.g-col-2}
+![](/about/utd-log.jpg)
+:::
+::: {.g-col-7}
+**MS** in **Applied Cognition & Neuroscience**  
+School of Behavioral & Brain Sciences   
+The University of Texas at Dallas  
+:::
+::: {.g-col-3}
+2016 - 2018
+:::
+:::
+<!------------------------ End of MS ---------------------------------->
+
+<!------------------------ BTech ----------------------------------------->
+::: {.grid}
+::: {.g-col-2}
+![](/about/kerala-uni.png)
+:::
+::: {.g-col-7}
+**BTech** in **Electronics & Communications Engineering**   
+Sree Chitra Thirunal College of Engineering  
+University of Kerala
+:::
+::: {.g-col-3}
+2010 - 2014
+:::
+:::
+<!------------------------ End of BTech ---------------------------------->
+
+## Professional Appointments 
+
+----
+<!------------------------ Experience 5 ---------------------------------->
+
+::: {.grid}
+::: {.g-col-9}
+**Co-founder & Research Scientist**       
+Cognitive Informatics & Statistics Lab  
+The University of Texas at Dallas
+:::
+::: {.g-col-3}
+2019 - Present
+:::
+:::
+<!------------------------ End of Experience 5 ---------------------------------->
+
+<!------------------------ Experience 4 ---------------------------------->
+
+::: {.grid}
+::: {.g-col-9}
+**Machine Learning Consultant**       
+ZEP Informatics LLC, Texas
+:::
+::: {.g-col-3}
+2019 - 2019
+:::
+:::
+<!------------------------ End of Experience 4 ---------------------------------->
+<!------------------------ Experience 3 ---------------------------------->
+
+::: {.grid}
+::: {.g-col-9}
+**Data Science Consultant**       
+Brand Elevation Partners LLC, Texas
+:::
+::: {.g-col-3}
+2018 - 2018
+:::
+:::
+<!------------------------ End of Experience 3 ---------------------------------->
+<!------------------------ Experience 2 ---------------------------------->
+
+::: {.grid}
+::: {.g-col-9}
+**Founder & Chief Scientist**       
+Infigence Neurotech Pvt. Ltd, India 
+:::
+::: {.g-col-3}
+2015 - 2016
+:::
+:::
+<!------------------------ End of Experience 2 ---------------------------------->
+<!------------------------ Experience 1 ---------------------------------->
+
+::: {.grid}
+::: {.g-col-9}
+**Founder & Principal Engineer**       
+Dionz Electronics, India
+:::
+::: {.g-col-3}
+2012 - 2015
+:::
+:::
+<!------------------------ End of Experience 1 ---------------------------------->
+
+## Honors and Awards 
+
+|Year           | Award                                                   | 
+|---------------|:--------------------------------------------------------|
+| 2020          | Matthew K. Weddle Fellowship in Cognition & Neuroscience|
+| 2016          | UT Dallas Graduate Excellence Scholarship               |
+| 2012          | Yuva Mastermind Award                                   |
+
+## Publications 
+
+----
+
+### Books
+
+- **Sudheesh, A**. (2022). [Introduction to Julia Machine Learning using ScikitLearn.](https://athulsudheesh.github.io/IJML/) 
+
+### Conference Proceedings 
+
+- **Sudheesh, A.**, & Golden, R. M. (2021). [Exploring Temporal Functional Dependencies Between Latent Skills 
+in Cognitive Diagnostic Models.](https://link.springer.com/chapter/10.1007/978-3-030-74772-5_23)
+In *Quantitative Psychology* (pp. 253-262). Springer
+
+### Talks 
+
+- **Sudheesh, A**. Testing Assumptions in Longitudinal Cognitive Diagnostic Modeling. Psychology Lecture Series. University of Texas at Dallas, Richardson, TX., March 2021.
+
+### Posters 
+
+- Sudheesh, A., & Golden, R. M. (2020). Exploring temporal functional dependencies between latent skills in summative assessments. 
+Poster presented at the 2020 International Meeting of the Psychometric Society (Virtual).
+
+### Software 
+|Name                  | Description                                                   | 
+|----------------------|:--------------------------------------------------------|
+| [Carla.jl](https://athulsudheesh.github.io/Carla.jl/)          | A Julia Package for Cognitive Diagnostic Modeling and Latent Transition Analysis               |
+| [CDMrdata.jl](https://juliahub.com/ui/Packages/CDMrdata/Rk81e/0.1.1)          | An API in Julia to access toy datasets in Cognitive Diagnostic Modeling|
+
+
+:::

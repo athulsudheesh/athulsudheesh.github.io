@@ -18,13 +18,13 @@
     "href": "index.html",
     "title": "@ Fourty Two",
     "section": "",
-    "text": "debugging\n\n\n\n\n\n\n\n\n\n\n\nMay 1, 2022\n\n\nAthul Sudheesh\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nApr 7, 2022\n\n\nAthul Sudheesh\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\ndebugging\n\n\n\n\nThis error is probably caused by the wrong scikit-learn version in your conda environment. You can solve this by updating all the packages in your current Conda environment.\nusing Conda   \nConda.update() \n\n\n\n\n\n\nMay 1, 2022\n\n\nAthul Sudheesh\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\nI came to know about Quarto a couple of days ago, and since then, I have been in love with it. This blog is built using Quarto Publishing, and I found it to be very straightforward and easy. Previously this blog was built using Franklin.jl and before that using Jekyll. One of the reasons I moved from Franklin to Quarto was Quarto’s language-agnostic approach and advanced layout setting.\n\n\n\n\n\n\nApr 7, 2022\n\n\nAthul Sudheesh\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Athul Sudheesh",
     "section": "",
-    "text": "About this blog"
+    "text": "Twitter\n  LinkedIn\n  Github\n\n      \n\n\n\n\n\n\n\n\n\nPhD in Cognition & Neuroscience\nSchool of Behavioral & Brain Sciences\nThe University of Texas at Dallas\n\n\n2019 - Present\n\n\n\n\n\n\n\n\n\nMS in Applied Cognition & Neuroscience\nSchool of Behavioral & Brain Sciences\nThe University of Texas at Dallas\n\n\n2016 - 2018\n\n\n\n\n\n\n\n\n\nBTech in Electronics & Communications Engineering\nSree Chitra Thirunal College of Engineering\nUniversity of Kerala\n\n\n2010 - 2014\n\n\n\n\n\n\n\n\n\n\nCo-founder & Research Scientist\nCognitive Informatics & Statistics Lab\nThe University of Texas at Dallas\n\n\n2019 - Present\n\n\n\n\n\n\nMachine Learning Consultant\nZEP Informatics LLC, Texas\n\n\n2019 - 2019\n\n\n\n\n\n\nData Science Consultant\nBrand Elevation Partners LLC, Texas\n\n\n2018 - 2018\n\n\n\n\n\n\nFounder & Chief Scientist\nInfigence Neurotech Pvt. Ltd, India\n\n\n2015 - 2016\n\n\n\n\n\n\nFounder & Principal Engineer\nDionz Electronics, India\n\n\n2012 - 2015\n\n\n\n\n\n\n\n\n\n\n\n\n\nYear\nAward\n\n\n\n\n2020\nMatthew K. Weddle Fellowship in Cognition & Neuroscience\n\n\n2016\nUT Dallas Graduate Excellence Scholarship\n\n\n2012\nYuva Mastermind Award\n\n\n\n\n\n\n\n\n\n\nSudheesh, A. (2022). Introduction to Julia Machine Learning using ScikitLearn.\n\n\n\n\n\nSudheesh, A., & Golden, R. M. (2021). Exploring Temporal Functional Dependencies Between Latent Skills in Cognitive Diagnostic Models. In Quantitative Psychology (pp. 253-262). Springer\n\n\n\n\n\nSudheesh, A. Testing Assumptions in Longitudinal Cognitive Diagnostic Modeling. Psychology Lecture Series. University of Texas at Dallas, Richardson, TX., March 2021.\n\n\n\n\n\nSudheesh, A., & Golden, R. M. (2020). Exploring temporal functional dependencies between latent skills in summative assessments. Poster presented at the 2020 International Meeting of the Psychometric Society (Virtual).\n\n\n\n\n\n\n\nName\nDescription\n\n\n\n\nCarla.jl\nA Julia Package for Cognitive Diagnostic Modeling and Latent Transition Analysis\n\n\nCDMrdata.jl\nAn API in Julia to access toy datasets in Cognitive Diagnostic Modeling"
   }
 ]
