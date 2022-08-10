@@ -1,0 +1,285 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  letterpaper,
+  DIV=11,
+  numbers=noendperiod]{scrartcl}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Athul Sudheesh},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+% Make \paragraph and \subparagraph free-standing
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\KOMAoption{captions}{tableheading}
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\renewcommand*\contentsname{Table of contents}
+\renewcommand*\listfigurename{List of Figures}
+\renewcommand*\listtablename{List of Tables}
+\renewcommand*\figurename{Figure}
+\renewcommand*\tablename{Table}
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{tcolorbox}{}{\usepackage[many]{tcolorbox}}
+\makeatother
+\makeatletter
+\@ifundefined{shadecolor}{\definecolor{shadecolor}{rgb}{.97, .97, .97}}
+\makeatother
+\makeatletter
+\makeatother
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\title{Athul Sudheesh}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[boxrule=0pt, enhanced, borderline west={3pt}{0pt}{shadecolor}, interior hidden, sharp corners, frame hidden]}{\end{tcolorbox}}\fi
+
+\hypertarget{hero-heading}{}
+\hypertarget{education}{%
+\subsection{Education}\label{education}}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\includegraphics{/about/utd-log.jpg}
+
+\textbf{PhD} in \textbf{Cognition \& Neuroscience}\\
+School of Behavioral \& Brain Sciences\\
+The University of Texas at Dallas
+
+2019 - Present
+
+\includegraphics{/about/utd-log.jpg}
+
+\textbf{MS} in \textbf{Applied Cognition \& Neuroscience}\\
+School of Behavioral \& Brain Sciences\\
+The University of Texas at Dallas
+
+2016 - 2018
+
+\includegraphics{/about/kerala-uni.png}
+
+\textbf{BTech} in \textbf{Electronics \& Communications Engineering}\\
+Sree Chitra Thirunal College of Engineering\\
+University of Kerala
+
+2010 - 2014
+
+\hypertarget{professional-appointments}{%
+\subsection{Professional Appointments}\label{professional-appointments}}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Co-founder \& Research Scientist}\\
+Cognitive Informatics \& Statistics Lab\\
+The University of Texas at Dallas
+
+2019 - Present
+
+\textbf{Machine Learning Consultant}\\
+ZEP Informatics LLC, Texas
+
+2019 - 2019
+
+\textbf{Data Science Consultant}\\
+Brand Elevation Partners LLC, Texas
+
+2018 - 2018
+
+\textbf{Founder \& Chief Scientist}\\
+Infigence Neurotech Pvt. Ltd, India
+
+2015 - 2016
+
+\textbf{Founder \& Principal Engineer}\\
+Dionz Electronics, India
+
+2012 - 2015
+
+\hypertarget{honors-and-awards}{%
+\subsection{Honors and Awards}\label{honors-and-awards}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.2083}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.7917}}@{}}
+\toprule
+\begin{minipage}[b]{\linewidth}\raggedright
+Year
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Award
+\end{minipage} \\
+\midrule
+\endhead
+2020 & Matthew K. Weddle Fellowship in Cognition \& Neuroscience \\
+2016 & UT Dallas Graduate Excellence Scholarship \\
+2012 & Yuva Mastermind Award \\
+\bottomrule
+\end{longtable}
+
+\hypertarget{publications}{%
+\subsection{Publications}\label{publications}}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{books}{%
+\subsubsection{Books}\label{books}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Sudheesh, A}. (2022).
+  \href{https://athulsudheesh.github.io/IJML/}{Introduction to Julia
+  Machine Learning using ScikitLearn.}
+\end{itemize}
+
+\hypertarget{conference-proceedings}{%
+\subsubsection{Conference Proceedings}\label{conference-proceedings}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Sudheesh, A.}, \& Golden, R. M. (2021).
+  \href{https://link.springer.com/chapter/10.1007/978-3-030-74772-5_23}{Exploring
+  Temporal Functional Dependencies Between Latent Skills in Cognitive
+  Diagnostic Models.} In \emph{Quantitative Psychology} (pp.~253-262).
+  Springer
+\end{itemize}
+
+\hypertarget{talks}{%
+\subsubsection{Talks}\label{talks}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Sudheesh, A}. Testing Assumptions in Longitudinal Cognitive
+  Diagnostic Modeling. Psychology Lecture Series. University of Texas at
+  Dallas, Richardson, TX., March 2021.
+\end{itemize}
+
+\hypertarget{posters}{%
+\subsubsection{Posters}\label{posters}}
+
+\begin{itemize}
+\tightlist
+\item
+  Sudheesh, A., \& Golden, R. M. (2020). Exploring temporal functional
+  dependencies between latent skills in summative assessments. Poster
+  presented at the 2020 International Meeting of the Psychometric
+  Society (Virtual).
+\end{itemize}
+
+\hypertarget{software}{%
+\subsubsection{Software}\label{software}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.2785}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.7215}}@{}}
+\toprule
+\begin{minipage}[b]{\linewidth}\raggedright
+Name
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Description
+\end{minipage} \\
+\midrule
+\endhead
+\href{https://athulsudheesh.github.io/Carla.jl/}{Carla.jl} & A Julia
+Package for Cognitive Diagnostic Modeling and Latent Transition
+Analysis \\
+\href{https://juliahub.com/ui/Packages/CDMrdata/Rk81e/0.1.1}{CDMrdata.jl}
+& An API in Julia to access toy datasets in Cognitive Diagnostic
+Modeling \\
+\bottomrule
+\end{longtable}
+
+\end{document}

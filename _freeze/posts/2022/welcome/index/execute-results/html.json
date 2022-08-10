@@ -1,11 +1,14 @@
 {
-  "hash": "0d2cd870e4b3ec3476ae6e9aa02828d3",
+  "hash": "814bd522e453f130869faba94ed9ad44",
   "result": {
-    "markdown": "---\ntitle: \"Welcome & Thank You Quarto\"\nauthor: \"Athul Sudheesh\"\ndate: \"04/07/2022\"\ncategories: [news]\nlayout: article\n---\n\nI came to know about Quarto a couple of days ago, and since then, I have been in love with it. This blog is built using [Quarto Publishing](https://quarto.org/), and I found it to be very straightforward and easy. Previously this blog was built using [Franklin.jl](https://franklinjl.org/) and before that using Jekyll. One of the reasons I moved from Franklin to Quarto was Quarto's language-agnostic approach and advanced layout setting. \n\nI hope to use this space to share my thoughts and notes on quantitative psychology, theoretical statistics, and machine learning. My goal is to use these github pages for articles aimed at technical audience and use my [main website](https://athulsudheesh.com) for general public. There are two reasons for me to choose github pages/quarto combo over my wordpress website:\n\n- I found it hard to get syntax highlight support for Julia language. Most of my computational work are done in Julia. \n- I want these notes to be eternally accessible. \n\n::: {.cell execution_count=1}\n``` {.julia .cell-code}\nusing Pkg\nlog(2+3)\n```\n\n::: {.cell-output .cell-output-display execution_count=2}\n```\n1.6094379124341003\n```\n:::\n:::\n\n\n",
-    "supporting": [
-      "index_files"
+    "markdown": "---\ntitle: \"Welcome & Thank You Quarto\"\nauthor: \"Athul Sudheesh\"\ndate: \"04/07/2022\"\ncategories: [news]\nlayout: article\n---\n\nI came to know about Quarto a couple of days ago, and since then, I have been in love with it. This blog is built using [Quarto Publishing](https://quarto.org/), and I found it to be very straightforward and easy. Previously this blog was built using [Franklin.jl](https://franklinjl.org/) and before that using Jekyll. One of the reasons I moved from Franklin to Quarto was Quarto's language-agnostic approach and advanced layout setting. \n\nI hope to use this space to share my thoughts and notes on quantitative psychology, theoretical statistics, and machine learning. My goal is to use these github pages for articles aimed at technical audience and use my [main website](https://athulsudheesh.com) for general public. There are two reasons for me to choose github pages/quarto combo over my wordpress website:\n\n- I found it hard to get syntax highlight support for Julia language. Most of my computational work are done in Julia. \n- I want these notes to be eternally accessible. \n\ndate: \"Last compiled on 08 August, 2022\"",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
     ],
-    "filters": [],
-    "includes": {}
+    "includes": [],
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": null
   }
 }
